@@ -1,1 +1,1 @@
-# Color switcher
+# Color generator
