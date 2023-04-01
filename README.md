@@ -1,1 +1,1 @@
-# [Color generator](https://gr-olaf.github.io/Color-generator/)
+[Demo](https://gr-olaf.github.io/Color-generator/)
